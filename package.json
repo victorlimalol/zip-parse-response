@@ -1,0 +1,11 @@
+{
+  "name": "zip-questor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "decompress": "^4.2.1",
+    "path": "^0.12.7"
+  }
+}
